@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task10</string>
+    <string name="username_string">Имя пользователя</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Пароль</string>
+    <string name="pass_again_string">Подтвердите пароль</string>
+    <string name="add_string">Добавить</string>
+    <string name="watch_string">Просмотреть</string>
+    <string name="update_string">Обновить</string>
+    <string name="delete_string">Удалить</string>
+</resources>
